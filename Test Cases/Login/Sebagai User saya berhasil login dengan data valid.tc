@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sebagai User saya berhasil login dengan data valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fddd570-310d-43d6-a3b3-72a50560cb6e</testCaseGuid>
+</TestCaseEntity>

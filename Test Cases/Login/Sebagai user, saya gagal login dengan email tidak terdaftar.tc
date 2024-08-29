@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sebagai user, saya gagal login dengan email tidak terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8967cc7-adc4-4022-8916-8acd7bfa9ccc</testCaseGuid>
+</TestCaseEntity>
